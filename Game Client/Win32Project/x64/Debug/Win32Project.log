@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(77,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(246,108): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(246,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(327,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(311,15): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(317,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\MyWork\2015180014_박정만_텀프\Game Client\Win32Project\main.cpp(345,2): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Win32Project.vcxproj -> C:\MyWork\2015180014_박정만_텀프\Game Client\x64\Debug\Win32Project.exe
