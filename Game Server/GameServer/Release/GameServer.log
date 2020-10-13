@@ -1,0 +1,14 @@
+﻿  DB.cpp
+  main.cpp
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(75): error C2664: 'BOOL GetQueuedCompletionStatus(HANDLE,LPDWORD,PULONG_PTR,LPOVERLAPPED *,DWORD)': 인수 3을(를) 'unsigned __int64 *'에서 'PULONG_PTR'(으)로 변환할 수 없습니다.
+  c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(75): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(80): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(86): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(136): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(138): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(156): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\mywork\gameserverprogramming-termproject-master\gameserverprogramming-termproject-master\game server\gameserver\main.cpp(160): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Lua.cpp
+  Map.cpp
+  NPC.cpp
+  Winsock.cpp
